@@ -1,0 +1,12 @@
+html{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    text-align: justify;
+}
+
+.fondo-azul-ocuro{
+    background-color: #3B62D4;
+    color: #080042;
+}
